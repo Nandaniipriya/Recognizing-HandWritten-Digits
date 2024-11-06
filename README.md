@@ -3,13 +3,14 @@
 <p align="center">
   <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/overview.png" alt="Banner Image" width="80%">
 </p>
+
 ## 📋 Overview
 This project implements various machine learning algorithms to recognize handwritten digits using the Scikit-learn digits dataset. We compare multiple classification approaches including Multi-Layer Perceptron (MLP), Decision Trees, K-Nearest Neighbors (KNN), Random Forest, and Support Vector Machines (SVM).
 
 ## 🎯 Model Performance
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/graph.png" alt="Graph" width="80%">
+  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/graph.png" alt="Graph" width="100%">
 </p>
 
 | Algorithm | Accuracy |
@@ -44,7 +45,7 @@ MLPClassifier(
 )
 ```
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/MLPClassifier.png" alt="MLPClassifier" width="80%">
+  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/MLPClassifier.png" alt="MLPClassifier" width="100%">
 </p>
 
 - Input Layer: 64 nodes (8x8 pixel images flattened)
@@ -115,7 +116,7 @@ The project includes:
 - Performance comparison plots across models
 
 <p align="center">
-  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/confusion-matrix-mnist.png" alt="confusion-matrix-mnist" width="80%">
+  <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/confusion-matrix-mnist.png" alt="confusion-matrix-mnist" width="100%">
 </p>
 
 ## 🔍 Future Improvements
