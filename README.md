@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition with Multiple Models 🔢
+# Handwritten Digit Recognition with Multiple Models. 🔢
 
 <p align="center">
   <img src="https://github.com/Nandaniipriya/Recognizing-HandWritten-Digits/raw/main/assets/overview.png" alt="Banner Image" width="80%">
